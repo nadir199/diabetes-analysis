@@ -3,7 +3,8 @@
 I'm Abdelkader Nadir DEBBAGH, I'm a Computer Systems Engineer and I'm pursuing a Master's degree Machine Learning for Data Science at the University of Paris. Feel free to contact me at (na.debbagh@gmail.com)
 
 ## Project Description
-In this project, I worked on the Diabetes dataset and tried to extract value out of it. I made a simple Univariate and Multivariate data analysis, applied resampling techniques, trained models and compared their results with various metrics, and implemented a model aggregation method through a majority vote.
+In this project, I worked on the Diabetes dataset and tried to extract value out of it. I made a simple Univariate and Multivariate data analysis, applied resampling techniques, trained models and compared their results with various metrics, I also implemented a model aggregation method through a majority vote.
+
 Data source : https://www.kaggle.com/mathchi/diabetes-data-set
 
 ## Dataset Description
